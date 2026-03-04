@@ -8,8 +8,8 @@ overall Time series Analysis practical problems :
 # Practical 2 - Gompertz curve [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/fitted_curve_TSA_1.ipynb)
 # Practical 3 -  curve [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/fitted_curve_TSA_1.ipynb)
 # Practical 4 - Moving Average [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/MA_TSA_P4.ipynb)
-# Practical 5 - Seasonal Component :  [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/Seasonal_Component_TSA_P5.ipynb)
-# Practical 6 - Seasonal Component :  [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/Seasonal_Component_TSA_P5.ipynb)
+# Practical 5 - Seasonal indices Ratio-to-Trend :  [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/Seasonal_Component_TSA_P5.ipynb)
+# Practical 6 - Seasonal indices Ratio-to-Moving Average :  [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/TSA_ratio_trend_%26_MA_Practical_5_6.ipynb)
 # Practical 7 - Measurement of seasonal indices Link Relative method :  [Link](https://github.com/KaustubhSN12/TSA_Fitted_Curve/blob/main/Linked_Relatives_TSA_P7.ipynb)
  - Simple averages method
  - trend using a linear regression
